@@ -1,0 +1,23 @@
+[
+  {
+    "Id": 1,
+    "Title": "Laga mat",
+    "Description": "B\u00E5de f\u00F6r lunch och middag",
+    "DueDate": "2025-10-20T00:00:00",
+    "IsCompleted": false
+  },
+  {
+    "Id": 2,
+    "Title": "Tv\u00E4tta kl\u00E4der",
+    "Description": "Utf\u00F6r efter matlagningen",
+    "DueDate": "2025-10-21T00:00:00",
+    "IsCompleted": true
+  },
+  {
+    "Id": 3,
+    "Title": "Skapa en design till applikationen",
+    "Description": "C#-kursen",
+    "DueDate": "2025-10-24T00:00:00",
+    "IsCompleted": false
+  }
+]
