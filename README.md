@@ -2,15 +2,6 @@
 En strukturerad och användarvänlig konsolapplikation byggd i C# (.NET 8.0) för att hantera uppgifter direkt i terminalen.  
 Applikationen sparar automatiskt alla uppgifter lokalt i JSON-format och låter användaren lägga till, visa, filtrera, söka, exportera och ta bort uppgifter på ett smidigt sätt.
 
-## Innehåll
-- [Funktioner](#funktioner)
-- [Teknisk stack](#teknisk-stack)
-- [Kom igång](#kom-igång)
-- [Projektstruktur](#projektstruktur)
-- [Exempel på körning](#exempel-på-körning)
-- [Erfarenheter](#erfarenheter)
-- [Förbättringsidéer](#förbättringsidéer)
-
 ## Funktioner
 
 ### Grundläggande funktioner
